@@ -1,0 +1,4 @@
+Total cases over the year 2020: 2717
+Total deaths over the year 2020: 94
+The maximum number of cases reported per date: 1200
+The maximum number of deaths reported per date: 50

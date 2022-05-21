@@ -1,0 +1,4 @@
+Total cases over the year 2021: 4144
+Total deaths over the year 2021: 56
+The maximum number of cases reported per date: 1427
+The maximum number of deaths reported per date: 30

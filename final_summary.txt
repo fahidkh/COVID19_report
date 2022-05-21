@@ -1,0 +1,4 @@
+Across the two years, the total of cases: 6861
+The total of deaths: 150
+The maximum number of cases reported per date: 1427
+The maximum number of deaths reported per date: 50
